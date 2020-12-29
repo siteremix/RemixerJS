@@ -1,5 +1,5 @@
 {
-  "name": "siteremix-remixer",
+  "name": "@siteremix/remixer",
   "version": "0.3.0",
   "description": "Remix your website or web application with event based animations, effects and dynamic styles",
   "main": "js/siteremix-remixer.js",
@@ -24,7 +24,7 @@
     "css",
     "styles"
   ],
-  "license": "https://www.siteremix.com/license",
+  "license": "SEE LICENSE IN https://www.siteremix.com/license",
   "bugs": {
     "url": "https://github.com/siteremix/remixer/issues"
   },

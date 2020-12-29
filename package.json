@@ -1,0 +1,32 @@
+{
+  "name": "siteremix-remixer",
+  "version": "0.3.0",
+  "description": "Remix your website or web application with event based animations, effects and dynamic styles",
+  "main": "js/siteremix-remixer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siteremix/remixer.git"
+  },
+  "keywords": [
+    "javascript-animations",
+    "dynamic",
+    "styles",
+    "website",
+    "remix",
+    "remixer",
+    "siteremix",
+    "event animations",
+    "effects",
+    "html",
+    "css",
+    "styles"
+  ],
+  "license": "https://www.siteremix.com/license",
+  "bugs": {
+    "url": "https://github.com/siteremix/remixer/issues"
+  },
+  "homepage": "https://github.com/siteremix/remixer#readme"
+}

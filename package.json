@@ -1,6 +1,6 @@
 {
   "name": "@siteremix/remixer",
-  "version": "0.3.30",
+  "version": "0.3.31",
   "description": "Remix your website or web application with event based animations, effects and dynamic styles",
   "main": "js/remixer.js",
   "filename": "js/remixer.js",

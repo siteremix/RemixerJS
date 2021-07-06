@@ -2,4 +2,4 @@
 
 /*! art-template@runtime | https://github.com/aui/art-template */
 
-//! RemixerJS version: 0.3.38
+//! RemixerJS version: 0.3.39

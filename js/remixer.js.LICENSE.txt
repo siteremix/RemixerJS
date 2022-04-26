@@ -10,4 +10,4 @@
  * @license MIT
  */
 
-//! RemixerJS version: 0.3.53
+//! RemixerJS version: 0.3.54
